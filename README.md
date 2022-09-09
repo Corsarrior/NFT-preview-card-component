@@ -50,16 +50,8 @@ Users should be able to:
 
 ### What I learned
 
-This challenge was a great opportunity to learn about pseudo classes in CSS, responsive design and the posibilities of HTML Canvas to improve the interactive experience. For example, I used JavaScript to change the opacity of HTML Canvas when the user over the mouse over the card image.
+This challenge was a great opportunity to learn about pseudo classes in CSS, responsive design and the posibilities of HTML Canvas to improve the interactive experience. For example, I used JavaScript to change the opacity of HTML Canvas when the user hovers the mouse over the card image.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
 ```js
 cardImage.addEventListener('mouseover', () => {
     canvas.style.opacity = 1;
@@ -74,7 +66,7 @@ cardImage.addEventListener('mouseout', () => {
 
 ### Continued development
 
-I hope to continue learning about HTML Canvas and its potential to create interactive website and also improve my CSS skills.
+I hope to continue learning about HTML Canvas and its potential to create interactive websites and also improve my CSS knowledge.
 
 
 ## Author
